@@ -1,3 +1,6 @@
+#adding data_algos file
+data_algos.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
